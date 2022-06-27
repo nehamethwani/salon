@@ -9,7 +9,7 @@ body{
     margin: auto;
 }
 .banner{
-    background: url(/images/Saloon-banner1.jpg);
+    background: url(../Saloon-banner1.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -67,7 +67,7 @@ body{
     color: gray;
 }
 .card1{
-    background: url(/images/saloon-card1.jpg);
+    background: url(../saloon-card1.jpg);
     background-position: center;
     background-size: cover;
     width: 50%;
@@ -86,7 +86,7 @@ body{
     cursor: pointer;
 }
 .card2{
-    background: url(/images/salonn-card2.jpg);
+    background: url(../salonn-card2.jpg);
     background-position: center;
     background-size: cover;
     width: 50%;
@@ -188,7 +188,7 @@ body{
     margin-top: 100px;
 }
 .bg-form{
-    background: url(/images/bg-form.jpg);
+    background: url(../bg-form.jpg);
     background-position: center;
     background-size: cover;
     margin-top: 150px;
